@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I'm Issam Ouabi
 
-<!--
-**Issam-oua/issam-oua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **Full-Stack Web Developer** from Morocco 🇲🇦, specializing in:
 
-Here are some ideas to get you started:
+- 🖥️ Front-end: HTML, CSS, JavaScript, React.js, Tailwind CSS, Bootstrap
+- 🛠️ Back-end: PHP, Laravel, MySQL, MongoDB
+- 💡 Other skills: API integration, Authentication, Git & GitHub, Responsive Design, Deployment
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Projects
+
+Check out some of my featured projects:
+- 🎯 [ISCODE]– My brand for modern digital products
+- 🌐 [DigitalPro Landing Page](https://github.com/issam-oua/digitalpro-landing) – Built with React + TailwindCSS
+- 📝 [Invoice Management App] – WinForms + AS400 integration
+
+---
+
+## 📫 Contact Me
+
+- 💼 [Ko-fi Shop](https://ko-fi.com/iscode)
+- 📷 [Instagram](https://www.instagram.com/isocde_dev)
+- 🔗 [LinkedIn](www.linkedin.com/in/ouabi-issam)
+- ✉️ Email: ouabiissam24@gmail.com
+---
+
+> “Code is not just code — it’s a reflection of creativity, logic, and passion.”  
+> Let’s build something awesome together!
+
