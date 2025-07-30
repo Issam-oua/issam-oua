@@ -21,7 +21,7 @@ Check out some of my featured projects:
 
 - 💼 [Ko-fi Shop](https://ko-fi.com/iscode)
 - 📷 [Instagram](https://www.instagram.com/isocde_dev)
-- 🔗 [LinkedIn](www.linkedin.com/in/ouabi-issam)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/ouabi-issam )
 - ✉️ Email: ouabiissam24@gmail.com
 ---
 
