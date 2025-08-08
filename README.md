@@ -3,7 +3,6 @@
 **Full-Stack Developer | Digital Craftsman | Problem Solver**  
 📍 Based in Morocco 🇲🇦 | 🚀 Building digital solutions since 2020  
 
-![Profile Banner](https://github.com/issam-oua/issam-oua/blob/main/assets/github-banner.png) *[Consider adding a professional banner image]*
 
 ## 🛠️ Technical Toolkit
 
